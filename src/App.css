@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  color: red;
+  background-color: #61dafb;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.person {
+  background-color: aquamarine;
+  border: 5px solid aqua;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
